@@ -1,0 +1,7 @@
+Der Winter setzt ein und frisches Gartengemüse ist kaum noch verfügbar, also werden Vorräte aus dem Gefrierschrank verarbeitet — diesmal grüne Bohnen. Die Entscheidung fiel auf eine Quiche-Variante, die eher als belegter Mürbeteig beschrieben wird, weil es nicht zu üppig sein sollte.
+
+Für den Teig wurde ein salziger Mürbteig nach Ariane verwendet, der nicht blind vorgebacken werden muss. Dieser Teig wird als besonders praktisch und handlich geschildert, mit einer nahezu blätterteigähnlichen Konsistenz, aber deutlich einfacher in der Verarbeitung.
+
+Der Belag bestand aus den gefrorenen grünen Bohnen, die nur sehr kurz — praktisch zwei Sekunden — in heißes Wasser getaucht wurden, um zu tauen, dann abgetrocknet und auf dem Teig verteilt. Ergänzt wurden die Bohnen durch ausgelassene Speckwürfel, Mandelstifte, etwas geriebenen Käse und zerbröselten Feta — größtenteils Reste aus dem Kühlschrank, die verbraucht werden sollten. Gewürzt wurde mit Paprika und Pfeffer.
+
+Die belegte Tarte kam bei 180 °C für 35 Minuten in den Ofen. Vor dem Servieren wurden einige Spritzer Olivenöl darübergegeben. Geschmacklich fand der Autor das Ergebnis sehr gelungen, während seine Frau die Tarte insgesamt zu trocken empfand — ein Hinweis darauf, dass Geschmäcker unterschiedlich sind. Insgesamt wird der Mürbteig jedoch besonders gelobt. Buon Appetito!

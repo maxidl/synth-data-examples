@@ -1,0 +1,29 @@
+Eine Reihe kurzer Servicehinweise und Rubriken verweist zu Newsletter- und Feed-Angeboten, mobilen Diensten (Apps, Mobilversion, SMS), Radio- und TV-Angeboten, dem Online‑Zeitungsangebot (Abo, E‑Paper, Anzeigen), sowie zu Redaktion, Onlinewerbung, Stellen- und Immobilieninseraten.
+
+Im Zentrum steht der Politbeitrag eines SVP‑Abgeordneten, Dominique Baettig, der forderte, gesetzliche Voraussetzungen zu schaffen, damit grenznahe Regionen – namentlich Vorarlberg, Teile Baden‑Württembergs, das Elsass, das Aostatal, Südtirol und ähnliche Gebiete – künftig als neue Kantone in die Schweiz integriert werden könnten, falls die Mehrheit der dortigen Bevölkerung ein solches Begehren stelle. Baettig, Arzt aus dem französischsprachigen Juraprovinz, begründet seinen Vorstoß damit, die Bevölkerung in vielen Grenzregionen leide unter dem mangelnden Interesse der nationalen und europäischen „classe politique“ gegenüber ihren Anliegen. Er hebt hervor, dass diese Menschen tagtäglich die Vorteile der schweizerischen direkten Demokratie sähen und sich „mehr Souveränität“ und „eine Demokratie mit menschlichem Antlitz“ wünschten.
+
+Politische Einordnung und Motive:
+- Der Vorschlag steht im Kontext der euroskeptischen, nationalistischen Linie der SVP; Baettig stellte die Forderung nicht als Einzelmeinung dar, sondern ließ sie von führenden SVP‑Politikern wie Parteichef Toni Brunner und Fraktionschef Caspar Baader mitunterzeichnen.
+- Inhaltlich richtet sich der Impuls auch als Kritik an der EU und ihren „zentralistischen Institutionen“, denen Baettig und die SVP angeblich eine Entfremdung von den Bürgerinnen und Bürgern vorwerfen.
+
+Reaktionen und Bewertung:
+- Die Landesregierung (Bundesrat) lehnte den Vorstoß deutlich ab. Begründet wurde dies mit der Einschätzung, ein derartiger Schritt wäre ein unfreundlicher politischer Akt, der von Nachbarstaaten als Provokation wahrgenommen würde und die bilateralen Beziehungen schwerwiegend beeinträchtige. Das Recht zur Sezession könne nur als ultima ratio in außergewöhnlichen Situationen gelten.
+- Medien‑ und öffentliche Resonanz: Der Vorschlag fand kaum politische Resonanz und wurde zunächst kaum beachtet; erst Monate später griffen einige Zeitungen das Thema auf. In Leserreaktionen wurde es häufig satirisch oder ironisch behandelt – etwa mit Kommentaren, man könne gleich noch Meereszugang annektieren, oder mit bissigen Anspielungen darauf, die frankophone Westschweiz an Frankreich „abzugeben“.
+- Insgesamt wurde die Initiative als politisch abseitig und ohne realistische Erfolgsaussichten eingestuft.
+
+Weitere, kurze Meldungen und Themenkreise, die das politische Klima in der Schweiz und aktuelle Debatten skizzieren:
+- Anstehende oder durchgeführte Volksabstimmungen: u. a. Abstimmung über hohe Managergehälter (März), häufige Referenden und Konflikte mit Grundrechten, Volksabstimmung über Wehrpflicht im kommenden Jahr.
+- Innen‑ und sicherheitspolitische Hinweise: Es gab keine konkreten Hinweise auf eine Anschlagsgefahr; zugleich rüstet die Schweizer Armee angesichts der Euro-Krise auf und übt den Ernstfall.
+- Politische Kontroversen und Debatten: Ein SVP‑Politiker hatte Asylbewerber als „Abschaum“ bezeichnet; eine „Direktdemokratische Partei“ kündigte Kampf gegen EU und „Islamisierung“ an; Gründer dieser Bewegung hoffte auf Kontakte zur FPÖ‑Prominenz.
+- Parlamentspolitik und Haushaltsfragen: SVP‑Kürzungsanträge scheiterten im Parlament; Staatsausgaben und BNE‑Bezüge sind Thema (Angabe: Anteil stieg auf 0,5 % des BNE).
+- Sozial‑ und Steuerfragen: Steuererleichterungen für Bausparen wurden verworfen; eine Initiative „Staatsverträge vors Volk“ galt als chancenlos; Revision des Krankenversicherungsgesetzes wurde abgelehnt.
+- Außenpolitik und Diplomatie: Debatten um mögliche Zahlungen des Eidgenössischen Departements für auswärtige Angelegenheiten an eine Konferenz (Bern sprach von Vermittlungstätigkeit); unterschiedliche Bewertungen zu EWR/EU‑Fragestellungen (z. B. Äußerungen von Markwalder und Blocher).
+- Diverse aktuelle Fälle: Fälle internationaler Brisanz (z. B. Verhaftung in Hamburg) und öffentliche Diskussionen über Mittelverwendung (z. B. Fahrräder und Finanzaufwand).
+
+Aus den Leserkommentaren zeichnen sich verschiedene Strömungen ab:
+- Einige Kommentatoren nehmen die Idee, Gebiete oder Staaten könnten sich der Schweiz anschließen, ironisch oder als Gedankenspiel ernst – mit Argumenten wie stärkerem Franken, direkter Demokratie, weniger EU‑Zahlungen.
+- Andere sehen in solchen Debatten einen Impuls für mehr echte Demokratie in der EU oder plädieren für eine Ausweitung der EFTA als Alternative zur EU.
+- Lokalpolitische Spannungen etwa in Österreich (Kärnten) werden als potenzieller Zündstoff dargestellt; Fantasien über territoriale Neuordnungen wurden provokant vorgetragen (z. B. Teilung Österreichs zwischen „Kärnten“ und Rest‑Österreich mit Anschluss an die Schweiz).
+- Die Redaktion weist darauf hin, dass Kommentarbeiträge nicht notwendigerweise ihre Meinung wiedergeben und behält sich Moderation—auch Löschung und rechtliche Schritte—bei straf‑ oder zivilrechtlich relevanten, sittenwidrigen oder dem Ansehen des Mediums zuwiderlaufenden Kommentaren vor.
+
+Das Thema vereint mehrere Ebenen: einen politisch provozierenden, von Nationalisten getragenen Vorstoß, eine klare Ablehnung seitens staatlicher Stellen mit Hinweisen auf völkerrechtliche und diplomatische Implikationen, mediale Verharmlosung und satirische Leserreaktionen sowie ein Bündel von Nebenschauplätzen in Schweizer Innen‑ und Außenpolitik, die zeigen, wie eng Fragen von Direkter Demokratie, Euroskepsis, Sicherheitslage und Sozial‑ und Finanzpolitik derzeit miteinander verwoben sind.
