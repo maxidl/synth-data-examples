@@ -20,6 +20,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
+import re
 
 
 PROMPT_ORDER = [
@@ -268,9 +269,51 @@ def assemble_document(language: str, by_stem: Dict[str, Dict[str, Path]], explan
                 continue
             heading = titlecase_prompt(key) if language == "en" else titlecase_prompt_de(key)
             parts.append(f"### {heading}")
-            parts.append(read_text(path))
+            content = read_text(path)
+            content = _normalize_headings_min_level(content, min_level=3)
+            parts.append(content)
             parts.append("")
     return "\n".join(parts).strip() + "\n"
+
+
+def _normalize_headings_min_level(markdown: str, min_level: int = 3) -> str:
+    # Ensure that all ATX headings inside the content are at least `min_level` deep.
+    # Example: "# Title" -> "### Title" when min_level=3. Skips fenced code blocks.
+    lines = markdown.splitlines()
+    in_code_block = False
+    fence_delim = None
+    normalized: List[str] = []
+    for line in lines:
+        stripped = line.lstrip()
+        # Detect start/end of fenced code block (``` or ~~~)
+        fence_match = re.match(r"^([`~]{3,})", stripped)
+        if fence_match:
+            delim = fence_match.group(1)
+            if not in_code_block:
+                in_code_block = True
+                fence_delim = delim
+            else:
+                # Only close if matching the same fence type/length
+                if fence_delim == delim:
+                    in_code_block = False
+                    fence_delim = None
+            normalized.append(line)
+            continue
+        if in_code_block:
+            normalized.append(line)
+            continue
+        # Normalize ATX headings (# ...)
+        m = re.match(r"^(#{1,6})\s+(.*)$", line)
+        if m:
+            level = len(m.group(1))
+            title = m.group(2).rstrip()
+            new_level = level if level >= min_level else min_level
+            if new_level > 6:
+                new_level = 6
+            normalized.append("#" * new_level + " " + title)
+            continue
+        normalized.append(line)
+    return "\n".join(normalized)
 
 
 def main() -> None:

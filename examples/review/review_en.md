@@ -87,9 +87,9 @@ The essay draws a historical parallel: around the time John Adams left for the C
 - Answer: She is said to have believed in the declaration of the right to life, liberty, and the pursuit of happiness, and advocated independence of person and thought, rights for all, and acceptance of responsibility for those rights.
 
 ### Educational Material
-# Jane Austen and the Theme of Independence
+### Jane Austen and the Theme of Independence
 
-## Learning goals
+### Learning goals
 - Identify how independence (of thought, choice, and person) functions as a central theme in Jane Austen’s fiction.
 - Analyze key passages that critique social constraints on women in Regency England.
 - Compare literary advocacy for personal freedom with political declarations of independence.
@@ -97,14 +97,14 @@ The essay draws a historical parallel: around the time John Adams left for the C
 
 ---
 
-## Historical and literary context (brief)
+### Historical and literary context (brief)
 - Jane Austen was born in December 1775 and wrote during the late 18th and early 19th centuries, a period of significant political change (American and French Revolutions) and evolving social expectations in Britain.
 - Political texts of the era—such as the American Declaration of Independence—argue for natural rights and self-government. Austen’s novels, while not political tracts, repeatedly explore personal liberty: the right to think for oneself, to choose freely in matters of marriage and vocation, and to accept responsibility for those choices.
 - Austen’s work often critiques the gendered limitations of her society through irony, social observation, and character conflict rather than overt polemic.
 
 ---
 
-## Central idea: independence in Austen’s fiction
+### Central idea: independence in Austen’s fiction
 Austen’s novels repeatedly dramatize tensions between individual freedom and social expectation. Key aspects include:
 - Independence of thought: characters who think for themselves and resist conformist pressure (e.g., Elizabeth Bennet’s refusals; Anne Elliot’s struggle with persuasion).
 - Freedom to choose: the right to choose a life partner or a livelihood irrespective of class or family pressure.
@@ -112,7 +112,7 @@ Austen’s novels repeatedly dramatize tensions between individual freedom and s
 
 ---
 
-## Two representative passages and commentary
+### Two representative passages and commentary
 
 1) Jane Fairfax on the “governess-trade”
 > “Excuse me, ma’am, but this is by no means my intention; I make no inquiry myself, and should be sorry to have any made by my friends. When I am quite determined as to the time, I am not at all afraid of being long unemployed. There are places in town, offices, where inquiry would soon produce something — offices for the sale, not quite of human flesh, but of human intellect.”  
@@ -136,7 +136,7 @@ Commentary:
 
 ---
 
-## Close-reading exercise (suggested steps)
+### Close-reading exercise (suggested steps)
 Passage: the Jane Fairfax “governess-trade” excerpt (above).
 
 1. Read slowly and underline words or phrases that carry strong emotional or ideological weight (e.g., “sale,” “human intellect,” “human flesh,” “victims”).
@@ -149,7 +149,7 @@ Hint for analysis: Focus on how equating intellect with a commodity both dignifi
 
 ---
 
-## Comparative prompt: Austen and political declarations of independence
+### Comparative prompt: Austen and political declarations of independence
 - Prompt: Compare the way Jane Austen’s novels advocate for personal liberty with the political assertions of natural rights (for example, the American Declaration of Independence). How do literary and political texts differ in audience, method, and immediate effect? How are they similar in values and underlying principles?
 - Points to consider:
   - Form: novel vs. political manifesto.
@@ -159,7 +159,7 @@ Hint for analysis: Focus on how equating intellect with a commodity both dignifi
 
 ---
 
-## Discussion questions
+### Discussion questions
 - How do specific heroines (Elizabeth Bennet, Anne Elliot, Emma Woodhouse, Jane Fairfax) embody different kinds of independence?
 - In what ways does Austen show both the benefits and limits of personal freedom in her novels?
 - How does Austen use irony and free indirect discourse to make social critique more persuasive?
@@ -168,7 +168,7 @@ Hint for analysis: Focus on how equating intellect with a commodity both dignifi
 
 ---
 
-## Activities and assignments
+### Activities and assignments
 1. Short essay (800–1,000 words): Choose one Austen heroine and analyze how she negotiates family pressure, social expectation, and personal desire. Use at least three textual examples.
 2. Creative writing: Write a modern scene (400–600 words) in which a character confronts social stigma surrounding their chosen livelihood. Use irony or social observation to reveal the stakes.
 3. Comparative analysis (presentation or paper): Compare one Austen scene about constrained choice with a contemporaneous political document (e.g., an excerpt from the Declaration of Independence). Discuss rhetoric, audience, and intended change.
@@ -176,7 +176,7 @@ Hint for analysis: Focus on how equating intellect with a commodity both dignifi
 
 ---
 
-## Assessment rubric (for essays)
+### Assessment rubric (for essays)
 - Thesis and argument (30%): Clear, focused, analytically driven.
 - Use of evidence (30%): Accurate quotations, relevant scenes, and close reading.
 - Context and insight (20%): Historical or cultural awareness and original thought.
@@ -185,7 +185,7 @@ Hint for analysis: Focus on how equating intellect with a commodity both dignifi
 
 ---
 
-## Further reading and resources
+### Further reading and resources
 - Primary texts: Pride and Prejudice, Emma, Persuasion, and other novels by Jane Austen.
 - Suggested secondary topics: Regency social structure and gender roles; the economics of the governess; irony and free indirect discourse in Austen.
 - For comparative historical context: readings on the American and French Revolutions and on political discourse about natural rights.
@@ -320,7 +320,7 @@ Hard (5)
     Answer: Jane Austen’s novels, though lacking in overt political theatre, function as powerful engines of social liberty—championing personal autonomy, intellectual agency, and the ethical responsibilities of freedom—and thus deserve recognition comparable to canonical political declarations of independence.
 
 ### Active Reading
-# Before Reading
+### Before Reading
 - Preview (skim): Title: "The Independent Jane". No subheadings. Short essay comparing Jane Austen’s themes (freedom, independence) with American founders (Adams, Jefferson). Contains quoted dialogue from Austen's novels.  
 - Purpose: I’m reading to understand the author’s main argument about Austen’s emphasis on independence and their comparison to Jefferson. I want to be able to summarize and critique the claim.  
 - Activate prior knowledge: I know Austen often explores social constraints, marriage, and individual choice (e.g., Elizabeth Bennet, Anne Elliot). I also know Jefferson and Adams were key American independence figures. I’ll watch for evidence linking Austen’s themes to political liberty.
@@ -458,7 +458,7 @@ Comprehension check: I understand the overall argument; some claims are interpre
 
 ---
 
-# After Reading
+### After Reading
 
 1. Summary of main ideas (without looking back):
 - Austen’s novels, beneath romance, champion independence of thought and choice. Examples include Elizabeth Bennet and Jane Fairfax. The essay parallels Austen’s literary advocacy for personal freedom with American founders’ political advocacy, arguing Austen’s influence is comparably important though subtler.
@@ -535,11 +535,11 @@ The text emphasizes a clear distinction between routes that do transmit HIV and 
 - Answer: It means the person is HIV positive or carrying the AIDS virus, and their semen can carry the virus and potentially infect others.
 
 ### Educational Material
-# How HIV is passed on — clear facts
+### How HIV is passed on — clear facts
 
 HIV (human immunodeficiency virus) is a virus that attacks the immune system. If untreated, HIV can lead to AIDS, which is the name given to the advanced stage of HIV infection. Knowing how HIV is — and is not — transmitted helps prevent infection and reduce fear or stigma.
 
-## Main ways HIV is transmitted
+### Main ways HIV is transmitted
 HIV can be passed when certain infected bodily fluids enter the bloodstream or mucous membranes of a person who is not infected. The fluids that can carry HIV include:
 - Blood
 - Semen (fluid released from the penis during ejaculation)
@@ -552,7 +552,7 @@ Common transmission routes:
 - From an HIV-positive person to their child during pregnancy, childbirth, or breastfeeding (prevention is possible with proper medical care).
 - Rarely, through transfusion of infected blood or blood products (very unlikely where blood is screened).
 
-## What does NOT transmit HIV
+### What does NOT transmit HIV
 HIV is not spread by casual everyday contact. It cannot be transmitted through:
 - Coughing or sneezing
 - Hugging, shaking hands, or casual touching
@@ -563,7 +563,7 @@ HIV is not spread by casual everyday contact. It cannot be transmitted through:
 
 Very deep (open-mouth) kissing is extremely unlikely to transmit HIV except in rare situations when both partners have significant bleeding in the mouth.
 
-## How to reduce the risk of HIV
+### How to reduce the risk of HIV
 - Use condoms correctly and consistently for vaginal or anal sex; they greatly lower the risk of transmission.
 - Never share needles, syringes, or injecting equipment. Use sterile supplies every time.
 - Get tested regularly and know your partner’s HIV status.
@@ -571,17 +571,17 @@ Very deep (open-mouth) kissing is extremely unlikely to transmit HIV except in r
 - People at high risk can use pre-exposure prophylaxis (PrEP), a daily medicine that can prevent HIV infection.
 - After a possible recent exposure, post-exposure prophylaxis (PEP) is an emergency medication that must be started within about 72 hours; seek medical care immediately.
 
-## If you think you were exposed
+### If you think you were exposed
 - Wash the area with soap and water (for a bite or needlestick). Do not use harsh chemicals or attempt to “flush out” wounds.
 - Seek medical care urgently — PEP may be an option if started quickly.
 - Get tested for HIV and follow up as advised by healthcare providers.
 
-## Testing and treatment
+### Testing and treatment
 - HIV testing is the only way to know one’s status. Modern tests are accurate and widely available.
 - If a test is positive, early treatment with antiretroviral therapy (ART) improves health, prevents progression to AIDS, and reduces the risk of passing HIV to others.
 - People on effective ART who maintain an undetectable viral load do not sexually transmit HIV.
 
-## Quick myth-busters
+### Quick myth-busters
 - You cannot get HIV from casual contact (hugging, shaking hands).
 - You cannot catch HIV from a toilet seat, pool, or shared food.
 - Saliva by itself does not transmit HIV in normal social contact.
@@ -871,17 +871,17 @@ Hard
 15. Brochure header sentence: “HIV is passed when infected bodily fluids (for example blood or semen) enter an uninfected person (for example via unprotected sex or shared needles); it is not spread by casual contact like coughing, kissing, toilet seats, pools, sweat, or tears.” (Single precise summary staying within facts of text.)
 
 ### Active Reading
-# Active reading — interleaved with the document
+### Active reading — interleaved with the document
 (Reader voice / thoughts are shown as "Thinking:" and margin-style annotations follow each quoted passage.)
 
-## Before Reading
+### Before Reading
 - Preview: Heading says "How do you get HIV?" — looks like a short explanation of transmission. No subheadings or visuals.
 - Purpose: I want to confirm accurate transmission routes and identify any common myths.
 - Activate prior knowledge: I know HIV is transmitted through certain body fluids (blood, semen, vaginal/rectal fluids, breast milk), not by casual contact (hugging, sharing toilets, saliva generally low risk). Condoms and not sharing needles reduce risk.
 
 ---
 
-## During Reading
+### During Reading
 
 > How do you get HIV?
 
@@ -959,7 +959,7 @@ Pause & quick summary: The document correctly lists non-transmission routes and 
 
 ---
 
-## Short running summary so far (in my own words)
+### Short running summary so far (in my own words)
 Thinking: Summarizing helps retention.
 
 - HIV is transmitted through certain infected body fluids (mentioned: blood and semen; in reality also vaginal/rectal fluids and breast milk) via activities that allow those fluids to enter another person's bloodstream or mucous membranes (unprotected sex, shared needles, mother-to-child).
@@ -968,7 +968,7 @@ Thinking: Summarizing helps retention.
 
 ---
 
-## After Reading
+### After Reading
 
 1. Summarize main ideas (without looking back)
 Thinking: I'll restate the key points from memory.
@@ -1152,18 +1152,18 @@ Additional note
   What is a processor license for server software and how does virtualization affect licensing of instances?
 
 ### Educational Material
-# Understanding Software Licensing: Key Concepts and Practical Guidance
+### Understanding Software Licensing: Key Concepts and Practical Guidance
 
 Software licensing determines what you may legally do with a program — what you can install, copy, modify, redistribute, or use in a given context. This guide explains common license types, how to choose licensing for servers and clients, and practical tips for organisations (especially nonprofits and libraries) when acquiring software.
 
 ---
 
-## Core definition
+### Core definition
 - Software license: a legal agreement between you and the software owner that grants certain permissions which would otherwise be restricted by copyright law (e.g., copying, installing, modifying, distributing).
 
 ---
 
-## License categories and common terms
+### License categories and common terms
 
 ### Free vs. Proprietary
 - Free software: refers to freedoms (use, copy, modify, redistribute), not necessarily price. Free software licenses grant broader rights.
@@ -1185,7 +1185,7 @@ Software licensing determines what you may legally do with a program — what yo
 
 ---
 
-## Volume and Donation Licensing: why it matters for organisations
+### Volume and Donation Licensing: why it matters for organisations
 Buying many copies or using donated/licensed programs for a whole organisation often uses volume licensing. Benefits include:
 - Lower cost per copy.
 - Easier installation (single organisation-wide activation codes).
@@ -1199,7 +1199,7 @@ Practical steps:
 
 ---
 
-## Server software licensing basics
+### Server software licensing basics
 Server products often require:
 1. A license to install/run the server application itself (usually bundled).
 2. Client licenses for users/devices that access the server (Client Access Licenses, or CALs), depending on product and licensing model.
@@ -1211,7 +1211,7 @@ Examples:
 
 ---
 
-## Client Access Licenses (CALs): User vs Device
+### Client Access Licenses (CALs): User vs Device
 - User CAL: assigned to a person; allows that person to access all instances of a server product across the organisation from any device.
   - Best when employees use multiple devices.
 - Device CAL: assigned to a device; allows any number of users to use that device to access the server.
@@ -1228,7 +1228,7 @@ Important note:
 
 ---
 
-## Special client licensing scenarios and exceptions
+### Special client licensing scenarios and exceptions
 
 - Anonymous (unauthenticated) external users: typically do not need CALs (e.g., website visitors accessing IIS-hosted content anonymously).
 - Authenticated external users (clients outside your organisation): options include:
@@ -1242,7 +1242,7 @@ Important note:
 
 ---
 
-## Practical checklist before acquiring software
+### Practical checklist before acquiring software
 - Identify who will use the software (employees, volunteers, external clients) and whether users are authenticated.
 - Determine whether access is by user or device and choose User CALs or Device CALs accordingly.
 - Check whether server editions require per-processor licenses or use CAL-based licensing.
@@ -1255,7 +1255,7 @@ Important note:
 
 ---
 
-## Common pitfalls and how to avoid them
+### Common pitfalls and how to avoid them
 - Underestimating authenticated access: forgetting to license authenticated external users or service accounts can create compliance gaps.
 - Miscounting devices vs users: choose the wrong CAL type for your usage pattern and overspend.
 - Ignoring server edition differences: some editions include different virtualization or processor licensing requirements.
@@ -1265,7 +1265,7 @@ Important note:
 
 ---
 
-## Quick glossary
+### Quick glossary
 - CAL: Client Access License — grants access rights to server software for a user or device.
 - ECL: External Connector License — covers authenticated external users for a server product.
 - EULA: End User License Agreement — the click-through agreement you accept to use software.
@@ -1275,14 +1275,14 @@ Important note:
 
 ---
 
-## Example: How licensing choices affect cost
+### Example: How licensing choices affect cost
 - Small organisation with many mobile employees: User CALs are likely most cost-effective (single CAL per person).
 - 24-hour call centre with shared workstations: Device CALs can reduce costs since multiple shifts share devices.
 - Public-facing website with anonymous visitors: No CALs needed for anonymous access, but authenticated portal users may require CALs or an ECL.
 
 ---
 
-## Resources and next steps
+### Resources and next steps
 - Always read product-specific licensing documentation from the software vendor for exact terms.
 - For organisations eligible for donations or discounts, consult nonprofit-focused distributors and donation portals to check available software and instructions for retrieving license keys.
 - Maintain records of all licenses and periodically audit installations against entitlements.
@@ -1624,13 +1624,13 @@ If you want, I can:
 - Generate a short rubric for grading long/essay responses.
 
 ### Active Reading
-# Active-Reading Interleaved Version (English)
+### Active-Reading Interleaved Version (English)
 
 Below I simulate an active reader working through the document step by step: a short "Before Reading" prep, then the original text interleaved with annotations, margin thoughts, questions, brief pause-summaries, and finally "After Reading" reflection, review, and application ideas.
 
 ---
 
-## BEFORE READING
+### BEFORE READING
 
 Preview (skim):  
 - Headings / structure spotted: introduction about CTComms, overview of software licenses, Free vs Proprietary, Free/Open Source distinctions, copyleft/public domain, shareware/freeware, EULAs, volume licensing, client/server licensing (CALs, Device vs User), special licensing cases (ECL, TS, System Center, virtualization), author bio, copyright.  
@@ -1644,7 +1644,7 @@ Activate prior knowledge:
 
 ---
 
-## DURING READING (document text followed by active annotations)
+### DURING READING (document text followed by active annotations)
 
 CTComms sends on average 2 million emails monthly on behalf of over 125 different charities and not for profits.
 
@@ -1842,7 +1842,7 @@ The latest version of Microsoft Office Professional Plus is an integrated collec
 
 ---
 
-## AFTER READING
+### AFTER READING
 
 Summarize main ideas (brief, from memory):  
 - Software licenses define legal permissions; "free" refers to rights, not price.  
@@ -1983,9 +1983,9 @@ Implications
 - Answer: The findings appeared in the Journal of Materials Chemistry, with a preliminary paper in the Journal of Membrane Science the previous month; the news article reporting this was published on April 8, 2010.
 
 ### Educational Material
-# Desalination membranes with anti-fouling polymer brush surfaces
+### Desalination membranes with anti-fouling polymer brush surfaces
 
-## Learning objectives
+### Learning objectives
 - Understand how reverse osmosis (RO) desalination works and why membrane fouling and scaling are major problems.
 - Learn about a surface-modification strategy that uses polymer “brush” layers to reduce fouling.
 - Learn the main synthesis steps: interfacial polymerization, atmospheric-pressure plasma activation, and graft polymerization.
@@ -1994,14 +1994,14 @@ Implications
 
 ---
 
-## 1. Overview: reverse osmosis and its limitations
+### 1. Overview: reverse osmosis and its limitations
 - Reverse osmosis (RO) desalination forces water through a semipermeable membrane under pressure. Water molecules pass; salts, colloids, bacteria and other impurities are retained.
 - Over time, retained material accumulates on the membrane surface — a process called fouling (biofouling, organic fouling, particulate fouling) and scaling (inorganic salt deposition).
 - Fouling and scaling reduce water flux, increase energy consumption (higher pressure needed), require frequent chemical cleaning and membrane replacement, and thus raise operating costs.
 
 ---
 
-## 2. Strategies to reduce fouling
+### 2. Strategies to reduce fouling
 Common approaches:
 - Pretreatment of feed water (filtration, chemical dosing).
 - Periodic chemical cleaning.
@@ -2015,7 +2015,7 @@ Limitations of simple coatings:
 
 ---
 
-## 3. Polymer brush surface modification: concept
+### 3. Polymer brush surface modification: concept
 - A polymer “brush” is a dense layer of polymer chains chemically tethered at one end to a surface.
 - Because the chains are anchored, they are more stable than physically adsorbed coatings.
 - In flow, the chains are mobile and can move with the water, producing dynamic steric hindrance that prevents particles, proteins and bacteria from anchoring.
@@ -2023,7 +2023,7 @@ Limitations of simple coatings:
 
 ---
 
-## 4. Typical synthesis route (three main steps)
+### 4. Typical synthesis route (three main steps)
 1. Form the base membrane
    - Create a thin-film composite polyamide RO membrane by conventional interfacial polymerization on a porous support. This is standard for commercial RO membranes.
 
@@ -2041,7 +2041,7 @@ Notes:
 
 ---
 
-## 5. How polymer brushes prevent fouling — mechanisms
+### 5. How polymer brushes prevent fouling — mechanisms
 - Steric hindrance: The mobile polymer chains form a dynamic barrier; contaminants cannot easily reach and adhere to the underlying membrane surface.
 - Dynamic motion: Flow-induced movement of chains (and thermal motion) makes it difficult for bacteria or proteins to make multiple binding interactions needed for stable attachment.
 - Hydration layer: Hydrophilic brushes hold water near the surface, forming a hydration layer that reduces adsorption of hydrophobic species and proteins.
@@ -2052,7 +2052,7 @@ Analogy: imagine kelp moving in a current — continuous motion and flexible str
 
 ---
 
-## 6. Advantages over other treatments
+### 6. Advantages over other treatments
 - Improved durability compared with physically coated films.
 - High water permeability retained because brush thickness and porosity can be controlled.
 - Can achieve both high salt rejection and long-term stability.
@@ -2061,7 +2061,7 @@ Analogy: imagine kelp moving in a current — continuous motion and flexible str
 
 ---
 
-## 7. Practical considerations and challenges
+### 7. Practical considerations and challenges
 - Optimization required for different water sources: brackish water, seawater, wastewater have different fouling tendencies and chemistries.
 - Control of brush thickness and density is critical: too thick may reduce permeation; too thin may not prevent fouling.
 - Long-term chemical stability under cleaning protocols (oxidants, acids, bases) must be verified.
@@ -2070,14 +2070,14 @@ Analogy: imagine kelp moving in a current — continuous motion and flexible str
 
 ---
 
-## 8. Potential impacts
+### 8. Potential impacts
 - Reduced chemical use for cleaning and less frequent membrane replacement lower operating costs.
 - Improved energy efficiency due to sustained higher permeability and lower fouling-induced pressure requirements.
 - Makes desalination more economical and more viable as an alternative water resource, particularly where water scarcity is an issue.
 
 ---
 
-## 9. Suggested classroom/lab activities
+### 9. Suggested classroom/lab activities
 1. Conceptual exercise
    - Compare and contrast fouling mechanisms for different feed waters (seawater vs. wastewater). Propose brush chemistries that would be effective for each case and justify choices based on hydrophilicity and charge.
 
@@ -2089,7 +2089,7 @@ Analogy: imagine kelp moving in a current — continuous motion and flexible str
 
 ---
 
-## 10. Discussion questions
+### 10. Discussion questions
 - How would you select a monomer for a brush intended to prevent biofouling from bacteria-rich wastewater?
 - What are the trade-offs between increasing brush thickness to reduce fouling and maintaining high water flux?
 - How does atmospheric-pressure plasma change the economics of membrane surface modification?
@@ -2097,7 +2097,7 @@ Analogy: imagine kelp moving in a current — continuous motion and flexible str
 
 ---
 
-## 11. Glossary
+### 11. Glossary
 - Reverse osmosis (RO): A membrane filtration process that uses pressure to force water through a semipermeable membrane, retaining salts and contaminants.
 - Fouling: Accumulation of particles, organics or biological matter on a membrane surface that reduces performance.
 - Scaling: Deposition of inorganic salts (e.g., calcium carbonate, sulfate salts) on a membrane surface.
@@ -2424,9 +2424,9 @@ Hard (5)
 End of all five exams.
 
 ### Active Reading
-# Active Reading — Interleaved Document
+### Active Reading — Interleaved Document
 
-## Before Reading
+### Before Reading
 - Preview: Skim title, subheadings, first paragraph, and publication info to get the big picture.
   - Title: "Hold the salt: UCLA engineers develop revolutionary new desalination membrane" — suggests a technological advance in desalination membranes.
   - Subheadings: "Process uses atmospheric pressure plasma to create filtering 'brush layer'"; "Desalination can become more economical..." — looks like a materials/engineering breakthrough with economic implications.
@@ -2619,7 +2619,7 @@ Pause & consolidate understanding:
 
 ---
 
-## After Reading
+### After Reading
 
 1. Summary (without looking back):
    - UCLA researchers developed a reverse-osmosis membrane with a tethered polymer brush layer grown from an atmospheric-pressure-plasma-activated polyamide surface. The brush layer moves in the water flow and can be chemically tuned for surface charge, reducing fouling and scaling, improving permeability and stability. The process avoids vacuum plasma and long reactions, potentially enabling scalable production and lower desalination costs. Field testing and scale-up work are ongoing.
@@ -2778,7 +2778,7 @@ Publication details appended: Issue 40, Volume VII Number 40, October 7–13, 19
 - Answer: Wednesday, October 13, 4:00–4:45pm; ages 2–4; cost $8.50 (RSVP: 410/266-0677)
 
 ### Educational Material
-# The Hunt for Falling Leaves
+### The Hunt for Falling Leaves
 
 Take a walk into the woods, a park or along your street and become a leaf detective. Look closely, touch carefully, and record what you find. This guide gives simple clues, identification help, safety tips and follow-up activities so you can learn about trees while having fun.
 
@@ -3214,19 +3214,19 @@ Answer (sample): "Provide an audio narration of the leaf-clue worksheet (the lin
 End of exams. If you want any exam adjusted (different difficulty balance, different format such as multiple-choice only, or answer sheets separated), tell me which one and I will revise.
 
 ### Active Reading
-# Active Reading Interleaving: "Not Just for Kids — The Hunt for Falling Leaves..."  
+### Active Reading Interleaving: "Not Just for Kids — The Hunt for Falling Leaves..."
 Below I preview the piece, set a purpose, activate prior knowledge, then read the document with my thoughts, questions, annotations, and short summaries inserted as if I'm writing in the margins. At the end I summarize, review, pose questions, and note how I might use this.
 
 ---
 
-## Before Reading (Preview / Purpose / Prior knowledge)
+### Before Reading (Preview / Purpose / Prior knowledge)
 - Preview: Headings: "Not Just for Kids", "The Hunt for Falling Leaves...", "Nature's Color on the Ground", by Mary Catherine Ball. Looks like a short narrative + a leaf-hunting activity + local event listings.  
 - Purpose: I want to understand the leaf-hunting activity, identify the five leaves described, and note any practical instructions for doing the activity. Also curious about the local events at the end.  
 - Activate prior knowledge: I know autumn leaves change color, common trees include oak, beech, sweet gum, maple; some trees make nuts or berries; sweet gum has star-shaped (palmate) leaves; beech has smooth edges; oak often lobed; pay attention to descriptive clues.
 
 ---
 
-## During Reading — Interleaved document with annotations
+### During Reading — Interleaved document with annotations
 
 Title: Not Just for Kids  
 > Reader's note: Title suggests content suitable for all ages—likely an activity that appeals beyond children.
@@ -3354,7 +3354,7 @@ Pause / Mini-Summary so far:
 
 ---
 
-## During Reading — Specific identification attempt (thinking through the clues)
+### During Reading — Specific identification attempt (thinking through the clues)
 I want to match the clues to tree types. Using earlier explicit names and the clues:
 
 - Known from text: oak, beech, sweet gum + more (two unspecified).
@@ -3376,7 +3376,7 @@ Conclusion: The printed clues are simplified and slightly ambiguous. The main po
 
 ---
 
-## After Reading — Reflection, Summary, Review, Questions, Application
+### After Reading — Reflection, Summary, Review, Questions, Application
 
 1. Summary of main ideas (without looking back):  
 - The author, a reporter, went into the woods to collect fallen leaves. She found many kinds and had five analyzed (oak, beech, sweet gum and two others). The page includes a cut-out activity prompting readers to go leaf-hunting (in daylight) and match five described leaves. The rest of the page lists local family events in mid-October 1999 related to nature, music, and crafts.

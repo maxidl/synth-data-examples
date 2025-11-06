@@ -450,14 +450,14 @@ SCHWERE (Musterlösungen/Erwartung)
 Ende Prüfungen. Wenn Sie möchten, erstelle ich zu einem der Prüfungsstile eine druckfertige Version (PDF‑Layout) oder ein Musterbeurteilungsblatt mit Punkten und Gewichtungen.
 
 ### Aktives Lesen
-# Vor dem Lesen
+### Vor dem Lesen
 - Preview (Überblick): Der Text wirkt wie eine Sammlung kurzer Kommentare/Rezensionen zu Werbespots, Nachrichten und Online-Videos — einzelne Abschnitte zu Coke Zero, Kepler-Planeten, Hangover 3, Sensodyne-Werbung, Bonprix, Youtube auf iPhone, Simon Pierro und Ford B-Max.
 - Lesezweck setzen: Ich will die Hauptaussagen der einzelnen Abschnitte erfassen, die Haltung des Autors (Ironie/Kritik) verstehen und herausfinden, ob Fakten, Meinungen oder Tipps (z. B. zu YouTube im Hintergrund) enthalten sind.
 - Vorwissen aktivieren: Ich kenne Coke Zero-Ads, die Kepler-Entdeckungen, Hangover-Filme, Sensodyne als Marke, Bonprix, Hintergrundwiedergabe-Probleme auf iPhones, Simon Pierro als iPad-Zauberer und den Ford B-Max-Spot — das hilft beim schnellen Erfassen.
 
 ---
 
-## Während des Lesens
+### Während des Lesens
 
 > Video  
 > Kennt Ihr die "Coke Zero Werbung" in der die Kinogäste sich ihren teuren Becher Cola kaufen und sich dann ins Kino setzen? Statt informativer Vorschauen und den endlos wirkenden Werbespots taucht auf einmal dieser Cola-Typ auf und verkündet, dass die Kunden nicht wie gewünscht ihre zuckertriefende Cola bekommen haben, sondern das entzuckerte Produkt "Coke Zero". Zu allem Überfluss ist der Typ auch noch stolz auf seinen Beschiss und gibt seinen Betrug (meine Meinung, meine nicht-juristische Wertung des Umstandes) auch noch offen zu. Sicher, der Ansatz mag seinen Sinn haben und Zweck erfüllen, denn eine zuckerlose Cola ist "bestimmt viel gesünder" schmeckt aber genau so toll *hust*.
@@ -547,7 +547,7 @@ Leser-Notizen:
 
 ---
 
-## Nach dem Lesen
+### Nach dem Lesen
 
 - Hauptideen (Kurzfassung ohne Blick zurück):
   - Der Text ist eine Sammlung von kurzen, meinungsbetonten Kommentaren zu Werbespots, Film- und Videothemen.
@@ -717,7 +717,7 @@ Diese Rubriken dienen als Nachschlagewerke für Verbraucher und Interessierte, d
 - Antwort: Cheddar stammt aus Südwestengland (Dorf Cheddar in Somerset), seine goldgelbe bis orange Farbe erhält er oft durch Annatto; handelsüblicher Cheddar reift meist 2–3 Monate, traditionell bis zu 14 Monate (länger reift → intensiveres Aroma).
 
 ### Lernmaterial
-# Salz – Menge, Bedarf und Tipps zum sparsamen Würzen
+### Salz – Menge, Bedarf und Tipps zum sparsamen Würzen
 
 - Empfehlung für Erwachsene: höchstens 6 g Salz pro Tag (Deutsche Gesellschaft für Ernährung). Das entspricht etwa einem gestrichenen Teelöffel.
 - Körperlicher Bedarf: etwa 3–6 g Salz täglich. Salz ist wichtig für die Regulation des Wasserhaushaltes und für den Knochenaufbau.
@@ -730,7 +730,7 @@ Praktische Tipps zum Salz sparen:
 - Auf verarbeitete Lebensmittel achten: Brot, Käse, Wurstwaren und viele Fertigprodukte enthalten oft viel Salz.
 - Etiketten lesen: Salz- (Natrium-)Angaben vergleichen und salzarme Varianten wählen.
 
-# Skandinavische Küche – Merkmale und typische Spezialitäten
+### Skandinavische Küche – Merkmale und typische Spezialitäten
 
 Warum die nordische Küche geschätzt wird:
 - Fokus auf regionale und saisonale Zutaten.
@@ -750,7 +750,7 @@ Anregungen:
 - Beim Ausprobieren auf frische, saisonale Zutaten setzen.
 - Nordische Kochbücher bieten viele einfache wie raffinierte Rezepte jenseits der bekannten Klassiker.
 
-# Lebensmittelverschwendung und Haltbarkeitsangaben
+### Lebensmittelverschwendung und Haltbarkeitsangaben
 
 Fakten:
 - Private Haushalte werfen pro Person jährlich rund 82 kg Lebensmittel weg.
@@ -767,7 +767,7 @@ Tipps zur Reduzierung von Lebensmittelabfällen:
 - Portionen anpassen und kleine Reste sofort einfrieren.
 - MHD als Orientierung verstehen, Produkte sensorisch prüfen bevor sie weggeworfen werden.
 
-# Hausmannskost und gutbürgerliche Küche
+### Hausmannskost und gutbürgerliche Küche
 
 Was ist Hausmannskost?
 - Traditionelle, einfache deutsche Küche mit preisgünstigen Zutaten.
@@ -789,7 +789,7 @@ Warum die Klassiker wieder beliebt sind:
 - Viele Gerichte lassen sich modernisieren (z. B. weniger Fett, neue Gewürze, kreative Beilagen).
 - Rezepte sind häufig leicht an individuelle Vorlieben und saisonale Zutaten anpassbar.
 
-# Cheddar – Herkunft, Herstellung und Verwendung
+### Cheddar – Herkunft, Herstellung und Verwendung
 
 Kurzprofil:
 - Herkunft: Südwestengland (Grafschaft Somerset, Dorf Cheddar).
@@ -807,7 +807,7 @@ Kulinarische Verwendung:
 - Sehr gut zum Überbacken (z. B. Gratins, Mac’n’Cheese).
 - In industriellen Produkten gibt es oft Schmelzkäse oder „Cheddar aus der Tube“ — dabei handelt es sich meist um verarbeitete Schmelzkäseprodukte, die nicht immer die Eigenschaften klassischen Cheddars besitzen.
 
-# Warenkunde (Kurzüberblick)
+### Warenkunde (Kurzüberblick)
 
 - Obst: von Ananas bis Zitrone – Saison, Lagerung, Verwendung (z. B. Frischverzehr, Konserven).
 - Fisch: Süßwasserfische, Meerestiere, Salzwasserfische – Herkunft, Frischekriterien, Zubereitung.
@@ -1063,7 +1063,7 @@ Ende — Hinweise
 - Die Lösungen sind knapp gehalten; bei offenen Antworten können Sie teilweise alternative, aber sachlich korrekte Formulierungen akzeptieren.
 
 ### Aktives Lesen
-# Vor dem Lesen — Vorschau, Ziel, Vorwissen
+### Vor dem Lesen — Vorschau, Ziel, Vorwissen
 - Vorschau/Skim: Überschriften und Stichworte fallen auf: Salzempfehlung, skandinavische Küche, Lebensmittelverschwendung, Mindesthaltbarkeitsdatum, Hausmannskost, Cheddar, Warenkunde-Listen. Kein Bildmaterial.
 - Ziel setzen: Ich möchte verstehen: (1) empfohlene Salzmenge und Gründe, (2) Besonderheiten der nordischen Küche, (3) Fakten zur Lebensmittelverschwendung und MHD, (4) was „Hausmannskost“ ausmacht, (5) wichtige Punkte zu Cheddar.
 - Vorwissen aktivieren: Ich weiß bereits, dass Salz gesundheitlich limitiert werden sollte, dass viele verarbeitete Lebensmittel Salz liefern, dass MHD ≠ Verderblichkeit ist, und dass Cheddar ein gereifter Hartkäse ist.
@@ -1325,7 +1325,7 @@ Gedanke: *Gute Ressource, wenn ich tiefer in Nährwerte oder Zubereitung einstei
 
 ---
 
-# Nach dem Lesen — Zusammenfassung, Review, Fragen, Anwendung
+### Nach dem Lesen — Zusammenfassung, Review, Fragen, Anwendung
 
 Kurz-Zusammenfassung (ohne nachzuschauen):
 - Salz: DGE empfiehlt höchstens 6 g/Tag; Bedarf ca. 3–6 g; Hauptfunktionen Wasserhaushalt und Knochenaufbau; viele verarbeitete Lebensmittel liefern Salz.
@@ -1471,7 +1471,7 @@ Fazit und Empfehlung
 - Antwort: Das WeTab ist ein prima Netbook-Ersatz zum Surfen und Mailen, kein vollwertiger Ersatz für längeres Tippen, lässt sich aber mit Tastatur und Maus ergänzen; als Gerät mit freiem OS fühlt sich der Autor als Linuxer pudelwohl und empfiehlt es klar für Leute, die mit Linux klarkommen.
 
 ### Lernmaterial
-# WeTab — Praxis-Guide für Nutzung, Anpassung und Einschätzung
+### WeTab — Praxis-Guide für Nutzung, Anpassung und Einschätzung
 
 Kurzüberblick
 - WeTab ist ein linux-basiertes Touch-Tablet, das eher einem Netbook nahekommt (Netbook-Hardware) und ein offenes System bietet.
@@ -2022,7 +2022,7 @@ Musterlösung (Beispiel):
 Ende aller Prüfungen. Wenn Sie möchten, kann ich einzelne Aufgaben in ein druckfertiges PDF-Format bringen oder die Punktverteilung und Bewertungsskalen (z. B. Bestehensgrenzen) für jede Prüfung vorschlagen.
 
 ### Aktives Lesen
-# Vor dem Lesen (Bevor ich ins Dokument eintauche)
+### Vor dem Lesen (Bevor ich ins Dokument eintauche)
 - Vorschau: Schneller Blick auf Titel/erste Zeilen -> persönlicher Erfahrungsbericht über den Kauf/Nutzung eines WeTab (Linux-basiertes Tablet). Erwartung: Vergleich zu iPad, Erfahrungswerte zu Hardware, OS, Alternativinstallationen.
 - Lesezweck: Verstehen, ob das Gerät für mich (oder andere Linux-Nutzer) empfehlenswert ist; welche Vor- und Nachteile betont werden; technische Grenzen und Workarounds.
 - Vorwissen aktivieren: Ich weiß, was ein Netbook ist, kenne iPad-Vergleiche, habe Grundkenntnisse zu Linux, MeeGo, Kubuntu und Virtual/On-Screen-Tastaturen.
@@ -2276,11 +2276,11 @@ Die belegte Tarte kam bei 180 °C für 35 Minuten in den Ofen. Vor dem Servieren
 - Antwort: Dem Autor hat die Quiche sehr gut geschmeckt, seiner Frau war sie insgesamt zu trocken.
 
 ### Lernmaterial
-# Herzhafter Mürbeteig mit grünen Bohnen — Rezept, Technik und Tipps
+### Herzhafter Mürbeteig mit grünen Bohnen — Rezept, Technik und Tipps
 
 Ein einfaches, herbst-/wintertaugliches Rezept: salziger Mürbeteig belegt mit grünen Bohnen, Speck, Mandeln und Käse. Ideal, um Tiefkühlgemüse zu verwerten. Enthält praktische Hinweise zur Teigzubereitung, zum Umgang mit gefrorenen Bohnen und Varianten, falls das Ergebnis saftiger oder vegetarisch sein soll.
 
-## Zutaten (für eine Tarteform Ø 26–28 cm)
+### Zutaten (für eine Tarteform Ø 26–28 cm)
 - Mürbeteig
   - 250 g Mehl
   - 125 g kalte Butter, in Stückchen
@@ -2298,10 +2298,10 @@ Ein einfaches, herbst-/wintertaugliches Rezept: salziger Mürbeteig belegt mit g
 - Optional für mehr Saftigkeit
   - 2 Eier + 150 ml Sahne oder 200 g Crème fraîche (als Guss)
 
-## Warum dieser salzige Mürbeteig?
+### Warum dieser salzige Mürbeteig?
 Ein gut zubereiteter salziger Mürbeteig ist buttrig und zart, lässt sich leicht verarbeiten und kann — bei entsprechendem Verhältnis von Fett und Mehl sowie geringer Feuchte des Belags — ohne Blindbacken verwendet werden. Er bleibt fein bröselig, kann aber durch kurze Kühlung und schonendes Arbeiten fast blätterig wirken.
 
-## Zubereitung — Schritt für Schritt
+### Zubereitung — Schritt für Schritt
 
 1. Teig herstellen
    - Mehl mit Salz in eine Schüssel geben. Kalte Butterstückchen mit den Fingern oder mit einem Pastry-Cutter in das Mehl einarbeiten, bis die Mischung krümelig ist (kleine Butterstückchen dürfen sichtbar bleiben).
@@ -2331,7 +2331,7 @@ Ein gut zubereiteter salziger Mürbeteig ist buttrig und zart, lässt sich leich
 6. Servieren
    - Kurz abkühlen lassen, in Stücke schneiden. Passt gut zu einem frischen Salat.
 
-## Tipps & Tricks
+### Tipps & Tricks
 - Teig nicht überarbeiten: zu langes Kneten aktiviert Gluten, was den Teig zäh statt mürbe macht.
 - Wenn die Oberfläche zu trocken wirkt: beim Zusammensetzen einen Eier-Sahne-Guss ergänzen oder mehr Käse/Feta verwenden.
 - Zu trockener Belag (geschmacklich zu trocken): pässende Maßnahmen sind
@@ -2342,16 +2342,16 @@ Ein gut zubereiteter salziger Mürbeteig ist buttrig und zart, lässt sich leich
 - Gefrorenes Gemüse: Schnellauftauen im heißen Wasserklumpen löst Gefriergut; für bessere Textur kurz blanchieren und dann schockkühlen, wenn möglich.
 - Ränder vor zu starkem Bräunen schützen: gegen Ende der Backzeit Alufolie oder Backpapier über die Ränder legen.
 
-## Varianten
+### Varianten
 - Vegetarisch: Speck durch Pilze, Räuchertofu oder karamellisierte Zwiebeln ersetzen.
 - Nusswechsel: Mandelstifte durch Walnüsse oder Pinienkerne austauschen.
 - Käsevariation: Ziegenkäse statt Feta, Parmesan zum Bestreuen für mehr Umami.
 - Kräuter: Thymian, Rosmarin oder frischer Schnittlauch passen sehr gut.
 
-## Lagerung & Aufwärmen
+### Lagerung & Aufwärmen
 - Im Kühlschrank hält sich die Tarte 2–3 Tage. Zum Aufwärmen: 150–170 °C im Ofen 10–15 Minuten, bis sie wieder knusprig ist. Mikrowelle macht den Boden matschig.
 
-## Kleine Sicherheits- und Qualitätshinweise
+### Kleine Sicherheits- und Qualitätshinweise
 - Speck vollständig durchbraten, damit er knusprig ist und mögliche Keime reduziert werden.
 - Gefrorene Ware hygienisch auftauen bzw. sofort verarbeiten.
 
@@ -2631,14 +2631,14 @@ Schwere Aufgaben
 Hinweis zur Verwendung: Jede Prüfung ist so konzipiert, dass die Aufgaben allein mit Kenntnis des obenstehenden Textes beantwortet werden können; bei offenen Formulierungen sind alternative, logisch begründete Antworten ebenfalls korrekt — orientieren Sie sich an den Musterlösungen bei der Bewertung. Viel Erfolg beim Prüfen!
 
 ### Aktives Lesen
-# Before Reading — Vorbereitung (Gedanken vor dem Lesen)
+### Before Reading — Vorbereitung (Gedanken vor dem Lesen)
 - Vorschau/Skim: Ich überfliege Überschriften, den ersten Satz und das Ende, um das Thema abzuschätzen. -> Es scheint ein kurzer, persönlicher Kochtext / Rezeptbericht zu sein.
 - Zweck setzen: Warum lese ich das? Ich möchte verstehen, welches Rezept beschrieben wird, ob es Tipps gibt, und entscheiden, ob ich es ausprobieren möchte.
 - Vorwissen aktivieren: Ich kenne Quiche, Mürbeteig, „blind vorgebacken“, und das Auftauen von Gemüse aus dem Gefrierschrank. Ich erinnere mich an typische Backzeiten bei 180 °C.
 
 ---
 
-# During Reading — Interleaved Text mit aktiven Lesekommentaren
+### During Reading — Interleaved Text mit aktiven Lesekommentaren
 
 Text:
 Ja, so langsam wird es doch Winter.
@@ -2712,7 +2712,7 @@ Kurze Pausen-Zusammenfassung (nach dem Lesen des ganzen Textes):
 
 ---
 
-# After Reading — Nach dem Lesen (Reflexion und Anwendung)
+### After Reading — Nach dem Lesen (Reflexion und Anwendung)
 
 1. Kurze Zusammenfassung (ohne Rückblick auf den Text):
 - Der Autor nutzt Wintervorräte und macht statt einer klassischen Quiche einen belegten salzigen Mürbeteig (nach Ariane). Auf den Teig kommen kurz aufgetaute grüne Bohnen, Speckwürfel, Mandelstifte, geriebener Käse und Feta; gewürzt mit Paprika und Pfeffer, gebacken bei 180 °C für 35 Minuten, mit Olivenöl verfeinert. Geschmacklich mochte der Autor es, seine Frau empfand es als zu trocken.
@@ -2847,7 +2847,7 @@ Das Thema vereint mehrere Ebenen: einen politisch provozierenden, von Nationalis
 - Antwort: Kommentare spiegeln nicht notwendigerweise die Meinung der Redaktion; die Redaktion kann Kommentare entfernen, die straf- oder zivilrechtliche Normen verletzen, den guten Sitten widersprechen oder dem Ansehen des Mediums schaden, und behält sich Schadenersatzansprüche sowie Anzeigen bei strafrechtlich relevanten Inhalten vor.
 
 ### Lernmaterial
-# Vorarlberg, Südtirol & Co. — Ein politischer Vorschlag und seine Folgen
+### Vorarlberg, Südtirol & Co. — Ein politischer Vorschlag und seine Folgen
 
 Kurzüberblick  
 Ein Schweizer Parlamentarier der Schweizerischen Volkspartei (SVP) schlug vor, gesetzliche Voraussetzungen zu schaffen, damit grenznahe Regionen (z. B. Vorarlberg, Baden‑Württemberg, Südtirol, Elsass) als neue Kantone in die Schweiz integriert werden könnten, sofern die Mehrheit der dortigen Bevölkerung dies wünsche. Der Vorschlag begründet sich mit der Bewunderung vieler Grenzbewohner für die direkte Demokratie der Schweiz und einer Kritik an der nationalen bzw. europäischen „classe politique“. Der Vorstoß stieß auf harsche Ablehnung durch die Landesregierung (Bundesrat) und löste in Medien und Kommentarspalten teils ironische, teils ernsthafte Reaktionen aus.
@@ -3267,7 +3267,7 @@ Schwere Aufgaben
 Hinweis: Alle Aufgaben und Lösungen basieren ausschließlich auf dem hier zugrunde liegenden Textinhalt. Sie können die Prüfungen unverändert verwenden oder einzelne Aufgaben mischen. Viel Erfolg beim Einsatz!
 
 ### Aktives Lesen
-# Vor dem Lesen (Before Reading)
+### Vor dem Lesen (Before Reading)
 - Vorschau/Skimming: Überschriften, Nebeninformationen und das erste längere Textstück deuten auf einen Meinungs-/Nachrichtenartikel über Vorschläge eines SVP-Politikers (Dominique Baettig) hin. Themen: Grenzregionen, mögliche Eingliederung in die Schweiz, Reaktionen.
 - Lesezweck (Set a purpose): Ich möchte verstehen, was genau vorgeschlagen wird, welche Argumente es dafür und dagegen gibt, welche Akteure beteiligt sind und welche Folgen das haben könnte.
 - Vorwissen aktivieren (Activate prior knowledge): Ich weiß, dass die SVP in der Schweiz rechtskonservativ und euroskeptisch ist, dass die Schweiz direkte Demokratie kennt, und dass Regionen wie Vorarlberg (Österreich) und Südtirol (Italien) kulturelle Nähe zur Schweiz haben können.
@@ -3371,7 +3371,7 @@ Hinweis: Alle Aufgaben und Lösungen basieren ausschließlich auf dem hier zugru
 
 ---
 
-# Während des Lesens — aktive Techniken angewandt (During Reading)
+### Während des Lesens — aktive Techniken angewandt (During Reading)
 - Annotation (Markieren): Schlüsselstellen markiert: Baettigs Forderung (gesetzlicher Rahmen für Kantonsbeitritte), Begründung (Unzufriedenheit mit nationaler/EU-Politik), Ablehnung durch den Bundesrat, geringe mediale Resonanz.
 - Fragen notiert:
   1. Welche verfassungsrechtlichen Schritte wären nötig, um einen neuen Kanton aufzunehmen?
@@ -3386,7 +3386,7 @@ Innerer Monolog zwischendurch:
 
 ---
 
-# Nach dem Lesen (After Reading)
+### Nach dem Lesen (After Reading)
 - Zusammenfassung der Hauptideen (ohne Blick zurück):
   - SVP-Politiker Dominique Baettig forderte 2010, einen gesetzlichen Rahmen zu schaffen, damit grenznahe Regionen (z. B. Vorarlberg, Baden-Württemberg, Südtirol) als neue Kantone in die Schweiz integriert werden könnten, sofern die Mehrheit dort zustimmt. Er begründet dies mit Unzufriedenheit gegenüber nationaler/EU-Politik und der Attraktivität der direkten Demokratie in der Schweiz. Der Bundesrat lehnte ab, das Thema blieb medienwirksam gering.
 
@@ -3411,7 +3411,7 @@ Innerer Monolog zwischendurch:
 
 ---
 
-# Abschließende Bewertung (meta)
+### Abschließende Bewertung (meta)
 - Ton: Sachlich-reportierend mit leichter redaktioneller Ironie.  
 - Glaubwürdigkeit: Quelle DER STANDARD — etabliertes Medium; die Aussagen über politische Positionen sind plausibel.  
 - Nutzwert: Gut, um einen Einblick in einen provokativen politischen Vorstoß und die Reaktionen zu erhalten; für tieferes Verständnis nötig: rechtliche Analyse und Meinungsdaten.
